@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'pages/menuPages/new_node_page.dart';
-import 'pages/menuPages/notification_page.dart';
+import 'pages/menuPages/view_notifications_page.dart';
 import 'pages/corePages/user_node_page.dart';
 import 'pages/loginPages/new_user_page.dart';
 import 'pages/corePages/home_page.dart';
-import 'pages/menuPages/new_plant_page.dart';
+import 'pages/menuPages/new_threshold_page.dart';
 import 'pages/loginPages/login_page.dart';
-import 'pages/menuPages/threshold_view_page.dart';
+import 'pages/menuPages/view_threshold_page.dart';
 import 'pages/corePages/map_page.dart';
 
 void main() {
