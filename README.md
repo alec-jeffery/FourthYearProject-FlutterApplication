@@ -8,6 +8,8 @@ This flutter app was built for users of the IoT for Smart Urban Farming and Gard
 
 ## Application's Pages
 
+This application is setup as a set of pages contained in the app/lib/main.dart file. These pages are given routes and can be accessed through the app on the bottom navigation bar and menu pages after logging in.
+
 Login pages:
 
 - Login to your account -> Login Page
